@@ -1,8 +1,9 @@
+<<<<<<< HEAD
 # 🚀 Ultra-Premium 3D Portfolio Website
 
 <div align="center">
 
-![Portfolio Preview](assets/images/avatar.png)
+![Portfolio Preview](assets/images/preview.jpg)
 
 **A Cinematic, Production-Ready Portfolio Featuring Advanced 3D Graphics, Holographic Effects & Premium Animations**
 
@@ -304,3 +305,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ Star this repo if you found it helpful!
 
 </div>
+=======
+# portfolio
+>>>>>>> d8a09cea083bd73e225f5f680b0773b1ebcf24ec
