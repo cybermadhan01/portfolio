@@ -1,0 +1,40 @@
+# Project files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.backup
+*.broken
+index.html.backup
+index.html.broken
+index_cleaned.html
+index_fixed.html
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Development files
+fix_notes.txt
+clean_html.py
+fix_html.py
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node modules (if using npm)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build files
+dist/
+build/
